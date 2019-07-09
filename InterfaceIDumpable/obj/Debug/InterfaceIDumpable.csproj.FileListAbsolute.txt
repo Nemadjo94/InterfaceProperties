@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\bin\Debug\InterfaceIDumpable.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\bin\Debug\InterfaceIDumpable.exe
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\bin\Debug\InterfaceIDumpable.pdb
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\obj\Debug\InterfaceIDumpable.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\obj\Debug\InterfaceIDumpable.exe
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\obj\Debug\InterfaceIDumpable.pdb
+C:\Users\Nemanja Djordjevic\source\repos\InterfaceIDumpable\InterfaceIDumpable\obj\Debug\InterfaceIDumpable.csprojAssemblyReference.cache
